@@ -65,7 +65,7 @@ jobs:
           test -n "$WORKSPACE"
           xcodebuild \
             -workspace "$WORKSPACE" \
-            -scheme "Ask Zaen" \
+            -scheme "AskZaen" \
             -configuration Release \
             -sdk iphoneos \
             -destination 'generic/platform=iOS' \
