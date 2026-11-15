@@ -81,6 +81,8 @@ jobs:
             CODE_SIGN_STYLE=Automatic \
             CODE_SIGN_IDENTITY="" \
             PROVISIONING_PROFILE_SPECIFIER="" \
+            CODE_SIGNING_ALLOWED=NO \
+            CODE_SIGNING_REQUIRED=NO \
             archive
 
       - name: Export the signed IPA
