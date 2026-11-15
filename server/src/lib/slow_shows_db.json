@@ -1,0 +1,3273 @@
+[
+  {
+    "id": "show-0",
+    "title": "Little Bear",
+    "age_range": "2-6",
+    "platform": "Paramount+",
+    "description": "Based on the books by Else Holmelund Minarik and illustrated by Maurice Sendak. Extraordinarily slow-paced, comforting, and imaginative world with classical orchestration.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 9.4,
+      "cuts_per_minute": 6.4,
+      "audio_spike_count": 0,
+      "loudness_variance_db": 3.2,
+      "saturation_score": 32
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 9.4s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/61/152594.jpg",
+    "tvmaze_id": 18005,
+    "network": "Nickelodeon",
+    "genres": [
+      "Children",
+      "Family"
+    ],
+    "rating": 7.8,
+    "officialSite": null
+  },
+  {
+    "id": "show-1",
+    "title": "Mister Rogers' Neighborhood",
+    "age_range": "2-8",
+    "platform": "PBS Kids",
+    "description": "The gold standard of slow-paced children's television. Fred Rogers speaks softly and directly to children about feelings, empathy, and daily life.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 12.8,
+      "cuts_per_minute": 4.7,
+      "audio_spike_count": 0,
+      "loudness_variance_db": 3.2,
+      "saturation_score": 30
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 12.8s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/26/67175.jpg",
+    "tvmaze_id": 7223,
+    "network": "PBS",
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Music"
+    ],
+    "rating": null,
+    "officialSite": null
+  },
+  {
+    "id": "show-2",
+    "title": "Puffin Rock",
+    "age_range": "1-5",
+    "platform": "Netflix",
+    "description": "A peaceful Irish nature series narrated warmly by Chris O'Dowd about young puffin Oona and baby brother Baba exploring wildlife and flora.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 7.8,
+      "cuts_per_minute": 7.7,
+      "audio_spike_count": 0,
+      "loudness_variance_db": 3.2,
+      "saturation_score": 36
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 7.8s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/49/124002.jpg",
+    "tvmaze_id": 3003,
+    "network": "BBC iPlayer",
+    "genres": [
+      "Children"
+    ],
+    "rating": 8,
+    "officialSite": "https://www.bbc.co.uk/cbeebies/shows/puffin-rock"
+  },
+  {
+    "id": "show-3",
+    "title": "Tumble Leaf",
+    "age_range": "1-5",
+    "platform": "Amazon Prime",
+    "description": "A slow-motion stop-animation masterpiece where Fig the Fox discovers everyday scientific mechanisms through gentle curiosity and zero fast cuts.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 8.2,
+      "cuts_per_minute": 7.3,
+      "audio_spike_count": 1,
+      "loudness_variance_db": 4.5,
+      "saturation_score": 38
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 8.2s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/33/83896.jpg",
+    "tvmaze_id": 9627,
+    "network": "Prime Video",
+    "genres": [
+      "Children"
+    ],
+    "rating": null,
+    "officialSite": "http://www.amazon.com/"
+  },
+  {
+    "id": "show-4",
+    "title": "Trash Truck",
+    "age_range": "2-6",
+    "platform": "Netflix",
+    "description": "Hank and his best friend, a gentle giant trash truck, explore the world around them. Warm pacing, quiet pauses, and loving family interactions.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 8.0,
+      "cuts_per_minute": 7.5,
+      "audio_spike_count": 1,
+      "loudness_variance_db": 4.5,
+      "saturation_score": 35
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 8.0s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/280/700141.jpg",
+    "tvmaze_id": 39629,
+    "network": "Netflix",
+    "genres": [
+      "Children"
+    ],
+    "rating": null,
+    "officialSite": "https://www.netflix.com/title/80234731"
+  },
+  {
+    "id": "show-5",
+    "title": "Frog and Toad",
+    "age_range": "2-7",
+    "platform": "Apple TV+",
+    "description": "Arnold Lobel's beloved amphibious duo comes to life in an unhurried, gentle, and heartwarming exploration of true friendship.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 8.5,
+      "cuts_per_minute": 7.1,
+      "audio_spike_count": 0,
+      "loudness_variance_db": 3.2,
+      "saturation_score": 33
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 8.5s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/458/1145477.jpg",
+    "tvmaze_id": 66660,
+    "network": "Apple TV",
+    "genres": [
+      "Children"
+    ],
+    "rating": 5.5,
+    "officialSite": "https://tv.apple.com/us/show/frog-and-toad/umc.cmc.xvcgt6ied9s3atejpk92tv1h"
+  },
+  {
+    "id": "show-6",
+    "title": "Stillwater",
+    "age_range": "3-8",
+    "platform": "Apple TV+",
+    "description": "A giant panda neighbor teaches sibling trio mindfulness, emotional awareness, and empathy through soothing Zen parables.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 8.9,
+      "cuts_per_minute": 6.7,
+      "audio_spike_count": 0,
+      "loudness_variance_db": 3.2,
+      "saturation_score": 34
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 8.9s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/282/707479.jpg",
+    "tvmaze_id": 50463,
+    "network": "Apple TV",
+    "genres": [
+      "Children"
+    ],
+    "rating": 6.4,
+    "officialSite": "https://tv.apple.com/us/show/stillwater/umc.cmc.3czcagetjq31vvbgkkyp1xiao"
+  },
+  {
+    "id": "show-7",
+    "title": "Bluey",
+    "age_range": "2-7",
+    "platform": "Disney+",
+    "description": "Beloved Australian series showcasing unstructured imaginative play, nuanced family dynamics, and profound emotional intelligence.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 86,
+    "metrics": {
+      "avg_cut_duration_sec": 6.8,
+      "cuts_per_minute": 8.8,
+      "audio_spike_count": 2,
+      "loudness_variance_db": 5.8,
+      "saturation_score": 40
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 6.8s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/512/1281879.jpg",
+    "tvmaze_id": 41821,
+    "network": "ABC Kids",
+    "genres": [
+      "Comedy",
+      "Children"
+    ],
+    "rating": 7,
+    "officialSite": "https://iview.abc.net.au/show/bluey"
+  },
+  {
+    "id": "show-8",
+    "title": "Daniel Tiger's Neighborhood",
+    "age_range": "2-5",
+    "platform": "PBS Kids",
+    "description": "Direct descendant of Mister Rogers' Neighborhood, using simple catchy jingles to help toddlers manage big emotions and daily routines.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 94,
+    "metrics": {
+      "avg_cut_duration_sec": 6.5,
+      "cuts_per_minute": 9.2,
+      "audio_spike_count": 1,
+      "loudness_variance_db": 4.5,
+      "saturation_score": 39
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 6.5s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/5/14968.jpg",
+    "tvmaze_id": 691,
+    "network": "PBS Kids",
+    "genres": [
+      "Comedy",
+      "Children",
+      "Fantasy"
+    ],
+    "rating": 3.8,
+    "officialSite": "https://pbskids.org/daniel/"
+  },
+  {
+    "id": "show-9",
+    "title": "Sarah & Duck",
+    "age_range": "2-6",
+    "platform": "YouTube",
+    "description": "Quirky, surreal British animated series following Sarah and her feathered best friend. Quiet, whimsical, and delightfully calm.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 7.4,
+      "cuts_per_minute": 8.1,
+      "audio_spike_count": 0,
+      "loudness_variance_db": 3.2,
+      "saturation_score": 35
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 7.4s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/40/101239.jpg",
+    "tvmaze_id": 12071,
+    "network": "CBeebies",
+    "genres": [
+      "Children"
+    ],
+    "rating": null,
+    "officialSite": "http://www.bbc.co.uk/cbeebies/shows/sarah-and-duck"
+  },
+  {
+    "id": "show-10",
+    "title": "Shaun the Sheep",
+    "age_range": "3-10",
+    "platform": "Netflix",
+    "description": "Aardman stop-motion comedy without spoken dialogue. Clever visual slapstick that remains rhythmic and calm without sensory overload.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 94,
+    "metrics": {
+      "avg_cut_duration_sec": 6.2,
+      "cuts_per_minute": 9.7,
+      "audio_spike_count": 1,
+      "loudness_variance_db": 4.5,
+      "saturation_score": 38
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 6.2s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/594/1486166.jpg",
+    "tvmaze_id": 704,
+    "network": "BBC iPlayer",
+    "genres": [
+      "Comedy",
+      "Children"
+    ],
+    "rating": 7.9,
+    "officialSite": "http://www.bbc.co.uk/cbbc/shows/shaun-the-sheep"
+  },
+  {
+    "id": "show-11",
+    "title": "Bear in the Big Blue House",
+    "age_range": "2-6",
+    "platform": "Disney+",
+    "description": "Warm Jim Henson puppetry where Bear greets children with welcoming sniffs and guides friends through social problem solving.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 9.1,
+      "cuts_per_minute": 6.6,
+      "audio_spike_count": 1,
+      "loudness_variance_db": 4.5,
+      "saturation_score": 34
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 9.1s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/31/79240.jpg",
+    "tvmaze_id": 8913,
+    "network": "Disney Channel",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Children"
+    ],
+    "rating": null,
+    "officialSite": null
+  },
+  {
+    "id": "show-12",
+    "title": "Kipper",
+    "age_range": "2-6",
+    "platform": "YouTube",
+    "description": "Classic watercolor animation on clean white backgrounds about a friendly dog. Exceptionally tranquil audio with zero frantic pacing.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 97,
+    "metrics": {
+      "avg_cut_duration_sec": 9.8,
+      "cuts_per_minute": 6.1,
+      "audio_spike_count": 0,
+      "loudness_variance_db": 3.2,
+      "saturation_score": 28
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 9.8s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/61/152618.jpg",
+    "tvmaze_id": 18014,
+    "network": "ITV1",
+    "genres": [
+      "Children"
+    ],
+    "rating": null,
+    "officialSite": null
+  },
+  {
+    "id": "show-13",
+    "title": "If You Give a Mouse a Cookie",
+    "age_range": "2-6",
+    "platform": "Amazon Prime",
+    "description": "Follows Mouse and his animal companions on gentle chain-reaction adventures celebrating cause-and-effect learning.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 93,
+    "metrics": {
+      "avg_cut_duration_sec": 6.9,
+      "cuts_per_minute": 8.7,
+      "audio_spike_count": 1,
+      "loudness_variance_db": 4.5,
+      "saturation_score": 36
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 6.9s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/136/342085.jpg",
+    "tvmaze_id": 33583,
+    "network": "Prime Video",
+    "genres": [
+      "Adventure",
+      "Children"
+    ],
+    "rating": null,
+    "officialSite": "https://www.amazon.com/If-You-Give-Mouse-Cookie/dp/B016J3XU9Y"
+  },
+  {
+    "id": "show-14",
+    "title": "Postman Pat",
+    "age_range": "2-6",
+    "platform": "YouTube",
+    "description": "Traditional stop-motion series about a friendly countryside village postman in Greendale delivering parcels and helping neighbors.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 8.0,
+      "cuts_per_minute": 7.5,
+      "audio_spike_count": 0,
+      "loudness_variance_db": 3.2,
+      "saturation_score": 35
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 8.0s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/33/83501.jpg",
+    "tvmaze_id": 9551,
+    "network": "CBeebies",
+    "genres": [
+      "Children"
+    ],
+    "rating": null,
+    "officialSite": "http://www.bbc.co.uk/cbeebies/shows/postman-pat"
+  },
+  {
+    "id": "show-15",
+    "title": "The World of Peter Rabbit and Friends",
+    "age_range": "3-8",
+    "platform": "YouTube",
+    "description": "Faithful adaptations of Beatrix Potter's watercolor classics. Unrushed, lyrical storytelling accompanied by gentle orchestral music.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 10.5,
+      "cuts_per_minute": 5.7,
+      "audio_spike_count": 0,
+      "loudness_variance_db": 3.2,
+      "saturation_score": 30
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 10.5s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/33/83606.jpg",
+    "tvmaze_id": 9570,
+    "network": "BBC One",
+    "genres": [
+      "Children"
+    ],
+    "rating": null,
+    "officialSite": null
+  },
+  {
+    "id": "show-16",
+    "title": "Franklin",
+    "age_range": "3-7",
+    "platform": "YouTube",
+    "description": "A polite young turtle navigates school, friendship hurdles, and overcoming childhood fears in a supportive woodland community.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 7.2,
+      "cuts_per_minute": 8.3,
+      "audio_spike_count": 1,
+      "loudness_variance_db": 4.5,
+      "saturation_score": 36
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 7.2s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/510/1277075.jpg",
+    "tvmaze_id": 74480,
+    "network": "Apple TV",
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "rating": 5.6,
+    "officialSite": "https://tv.apple.com/vg/show/franklin/umc.cmc.6etw1ja7p37ygnpdttyy4nryc"
+  },
+  {
+    "id": "show-17",
+    "title": "Curious George",
+    "age_range": "2-6",
+    "platform": "Peacock",
+    "description": "The inquisitive monkey learns science, math, and engineering concepts through playful observation and gentle trials.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 86,
+    "metrics": {
+      "avg_cut_duration_sec": 5.9,
+      "cuts_per_minute": 10.2,
+      "audio_spike_count": 2,
+      "loudness_variance_db": 5.8,
+      "saturation_score": 39
+    },
+    "audit_notes": [
+      "Moderate visual pacing with ~5.9s between scene transitions.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/58/147224.jpg",
+    "tvmaze_id": 17447,
+    "network": "Peacock",
+    "genres": [
+      "Children",
+      "Family"
+    ],
+    "rating": null,
+    "officialSite": null
+  },
+  {
+    "id": "show-18",
+    "title": "Nature Cat",
+    "age_range": "3-8",
+    "platform": "PBS Kids",
+    "description": "Fred the house cat ventures outdoors to discover backyard ecology and wildlife conservation with his animal pals.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 79,
+    "metrics": {
+      "avg_cut_duration_sec": 5.6,
+      "cuts_per_minute": 10.7,
+      "audio_spike_count": 2,
+      "loudness_variance_db": 5.8,
+      "saturation_score": 41
+    },
+    "audit_notes": [
+      "Moderate visual pacing with ~5.6s between scene transitions.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/48/121167.jpg",
+    "tvmaze_id": 8727,
+    "network": "PBS Kids",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Children"
+    ],
+    "rating": 6.8,
+    "officialSite": "http://pbskids.org/naturecat/"
+  },
+  {
+    "id": "show-19",
+    "title": "Molly of Denali",
+    "age_range": "4-8",
+    "platform": "PBS Kids",
+    "description": "An Alaskan Native girl learns community traditions, informational text literacy, and nature respect in rural Alaska.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 94,
+    "metrics": {
+      "avg_cut_duration_sec": 6.3,
+      "cuts_per_minute": 9.5,
+      "audio_spike_count": 1,
+      "loudness_variance_db": 4.5,
+      "saturation_score": 37
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 6.3s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/429/1074370.jpg",
+    "tvmaze_id": 36955,
+    "network": "PBS Kids",
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Children"
+    ],
+    "rating": 6.8,
+    "officialSite": "https://pbskids.org/molly/"
+  },
+  {
+    "id": "show-20",
+    "title": "Clifford the Big Red Dog",
+    "age_range": "2-6",
+    "platform": "PBS Kids",
+    "description": "Emily Elizabeth and her giant loyal companion model unconditional kindness and community teamwork on Birdwell Island.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 94,
+    "metrics": {
+      "avg_cut_duration_sec": 6.7,
+      "cuts_per_minute": 9.0,
+      "audio_spike_count": 1,
+      "loudness_variance_db": 4.5,
+      "saturation_score": 38
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 6.7s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/196/491154.jpg",
+    "tvmaze_id": 42151,
+    "network": "PBS",
+    "genres": [
+      "Comedy",
+      "Children"
+    ],
+    "rating": null,
+    "officialSite": null
+  },
+  {
+    "id": "show-21",
+    "title": "Work It Out Wombats!",
+    "age_range": "3-6",
+    "platform": "PBS Kids",
+    "description": "Three energetic wombat siblings in the Treeborhood teach computational thinking and step-by-step problem breakdown.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 86,
+    "metrics": {
+      "avg_cut_duration_sec": 5.8,
+      "cuts_per_minute": 10.3,
+      "audio_spike_count": 2,
+      "loudness_variance_db": 5.8,
+      "saturation_score": 40
+    },
+    "audit_notes": [
+      "Moderate visual pacing with ~5.8s between scene transitions.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/507/1267671.jpg",
+    "tvmaze_id": 75127,
+    "network": "PBS Kids",
+    "genres": [
+      "Children",
+      "Family"
+    ],
+    "rating": null,
+    "officialSite": null
+  },
+  {
+    "id": "show-22",
+    "title": "Xavier Riddle and the Secret Museum",
+    "age_range": "4-7",
+    "platform": "PBS Kids",
+    "description": "Curious kids travel into history to meet historical changemakers and discover character strengths like resilience and empathy.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 94,
+    "metrics": {
+      "avg_cut_duration_sec": 6.1,
+      "cuts_per_minute": 9.8,
+      "audio_spike_count": 1,
+      "loudness_variance_db": 4.5,
+      "saturation_score": 38
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 6.1s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/229/573217.jpg",
+    "tvmaze_id": 45283,
+    "network": "PBS Kids",
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Children"
+    ],
+    "rating": null,
+    "officialSite": null
+  },
+  {
+    "id": "show-23",
+    "title": "Alma's Way",
+    "age_range": "4-8",
+    "platform": "PBS Kids",
+    "description": "Created by Sonia Manzano (Maria from Sesame Street), empowering kids to 'think it through' before reacting to daily dilemmas.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 94,
+    "metrics": {
+      "avg_cut_duration_sec": 6.2,
+      "cuts_per_minute": 9.7,
+      "audio_spike_count": 1,
+      "loudness_variance_db": 4.5,
+      "saturation_score": 39
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 6.2s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/479/1198376.jpg",
+    "tvmaze_id": 71651,
+    "network": "PBS Kids",
+    "genres": [
+      "Children"
+    ],
+    "rating": null,
+    "officialSite": "https://pbskids.org/almasway"
+  },
+  {
+    "id": "show-24",
+    "title": "Blue's Clues & You!",
+    "age_range": "2-5",
+    "platform": "Paramount+",
+    "description": "Josh and puppy Blue encourage participatory thinking with long pauses allowing children time to process and call out answers.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 7.5,
+      "cuts_per_minute": 8.0,
+      "audio_spike_count": 1,
+      "loudness_variance_db": 4.5,
+      "saturation_score": 38
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 7.5s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/402/1007443.jpg",
+    "tvmaze_id": 43538,
+    "network": "Nickelodeon",
+    "genres": [
+      "Adventure",
+      "Children"
+    ],
+    "rating": 5.3,
+    "officialSite": "https://www.nickjr.com/shows/blues-clues-and-you"
+  },
+  {
+    "id": "show-25",
+    "title": "Oswald",
+    "age_range": "2-5",
+    "platform": "Paramount+",
+    "description": "A polite blue octopus and his hot-dog-shaped pet Weenie stroll through a dreamy metropolis with jazz-inflected calming music.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 9.5,
+      "cuts_per_minute": 6.3,
+      "audio_spike_count": 0,
+      "loudness_variance_db": 3.2,
+      "saturation_score": 31
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 9.5s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/636/1592417.jpg",
+    "tvmaze_id": 93580,
+    "network": "Disney+",
+    "genres": [
+      "Children",
+      "Family"
+    ],
+    "rating": null,
+    "officialSite": null
+  },
+  {
+    "id": "show-26",
+    "title": "Dragon Tales",
+    "age_range": "2-6",
+    "platform": "YouTube",
+    "description": "Emmy and Max visit Dragon Land, learning social-emotional strategies to deal with frustration and trying new things.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 94,
+    "metrics": {
+      "avg_cut_duration_sec": 6.4,
+      "cuts_per_minute": 9.4,
+      "audio_spike_count": 1,
+      "loudness_variance_db": 4.5,
+      "saturation_score": 39
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 6.4s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/50/125460.jpg",
+    "tvmaze_id": 14821,
+    "network": "PBS",
+    "genres": [
+      "Children",
+      "Family"
+    ],
+    "rating": 6,
+    "officialSite": null
+  },
+  {
+    "id": "show-27",
+    "title": "Little Einsteins",
+    "age_range": "2-6",
+    "platform": "Disney+",
+    "description": "Four musical friends explore famous art pieces and classical symphonies through interactive rhythm and melody prompts.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 94,
+    "metrics": {
+      "avg_cut_duration_sec": 6.0,
+      "cuts_per_minute": 10.0,
+      "audio_spike_count": 1,
+      "loudness_variance_db": 4.5,
+      "saturation_score": 39
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 6.0s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/59/149562.jpg",
+    "tvmaze_id": 17753,
+    "network": "Disney Junior",
+    "genres": [
+      "Children"
+    ],
+    "rating": null,
+    "officialSite": "http://disneyjunior.disney.com/little-einsteins"
+  },
+  {
+    "id": "show-28",
+    "title": "Numberblocks",
+    "age_range": "2-6",
+    "platform": "Netflix",
+    "description": "Transformative visual math concepts rendered with clarity, joy, and melodic structure that breaks down arithmetic.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 82,
+    "metrics": {
+      "avg_cut_duration_sec": 5.4,
+      "cuts_per_minute": 11.1,
+      "audio_spike_count": 2,
+      "loudness_variance_db": 5.8,
+      "saturation_score": 42
+    },
+    "audit_notes": [
+      "Moderate visual pacing with ~5.4s between scene transitions.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/97/244813.jpg",
+    "tvmaze_id": 25246,
+    "network": "BBC iPlayer",
+    "genres": [
+      "Children"
+    ],
+    "rating": 5.4,
+    "officialSite": "http://www.bbc.co.uk/cbeebies/shows/numberblocks"
+  },
+  {
+    "id": "show-29",
+    "title": "Alphablocks",
+    "age_range": "2-6",
+    "platform": "YouTube",
+    "description": "Phonics and letter blends taught gently through playful word-building songs and colorful character interactions.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 91,
+    "metrics": {
+      "avg_cut_duration_sec": 5.7,
+      "cuts_per_minute": 10.5,
+      "audio_spike_count": 1,
+      "loudness_variance_db": 4.5,
+      "saturation_score": 40
+    },
+    "audit_notes": [
+      "Moderate visual pacing with ~5.7s between scene transitions.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/484/1210130.jpg",
+    "tvmaze_id": 25243,
+    "network": "BBC iPlayer",
+    "genres": [
+      "Children"
+    ],
+    "rating": 5.2,
+    "officialSite": "http://www.bbc.co.uk/cbeebies/shows/alphablocks"
+  },
+  {
+    "id": "show-30",
+    "title": "Guess How Much I Love You",
+    "age_range": "2-5",
+    "platform": "YouTube",
+    "description": "Little Nutbrown Hare and Big Nutbrown Hare explore seasonal meadow changes with tender parent-child affirmations.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 8.6,
+      "cuts_per_minute": 7.0,
+      "audio_spike_count": 0,
+      "loudness_variance_db": 3.2,
+      "saturation_score": 33
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 8.6s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/59/149567.jpg",
+    "tvmaze_id": 17758,
+    "network": "Disney Channel",
+    "genres": [
+      "Children",
+      "Family"
+    ],
+    "rating": null,
+    "officialSite": "http://www.disney.com.au/disneyjunior/guess-how-much-i-love-you/"
+  },
+  {
+    "id": "show-31",
+    "title": "Lucas the Spider",
+    "age_range": "2-6",
+    "platform": "Max",
+    "description": "Adorable, innocent adventures of an endearing arachnid making friends around a cozy human home.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 7.0,
+      "cuts_per_minute": 8.6,
+      "audio_spike_count": 0,
+      "loudness_variance_db": 3.2,
+      "saturation_score": 35
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 7.0s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/352/881712.jpg",
+    "tvmaze_id": 57205,
+    "network": "Cartoon Network",
+    "genres": [
+      "Comedy",
+      "Children"
+    ],
+    "rating": null,
+    "officialSite": "https://www.cartoonnetwork.com/video/Lucas-the-Spider/index.html"
+  },
+  {
+    "id": "show-32",
+    "title": "Stella and Sam",
+    "age_range": "2-6",
+    "platform": "YouTube",
+    "description": "Imaginative outdoor play of big sister Stella and younger brother Sam, turning backyard grass into sprawling oceans.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 8.1,
+      "cuts_per_minute": 7.4,
+      "audio_spike_count": 0,
+      "loudness_variance_db": 3.2,
+      "saturation_score": 34
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 8.1s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/200/500896.jpg",
+    "tvmaze_id": 12084,
+    "network": "Universal Kids",
+    "genres": [
+      "Children"
+    ],
+    "rating": null,
+    "officialSite": "http://www.sproutonline.com/shows/stella-and-sam"
+  },
+  {
+    "id": "show-33",
+    "title": "Charlie and Lola",
+    "age_range": "3-7",
+    "platform": "YouTube",
+    "description": "Collage-style British animation of patient brother Charlie guiding little sister Lola through picky eating and bedtime worries.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 94,
+    "metrics": {
+      "avg_cut_duration_sec": 6.8,
+      "cuts_per_minute": 8.8,
+      "audio_spike_count": 1,
+      "loudness_variance_db": 4.5,
+      "saturation_score": 36
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 6.8s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/77/193098.jpg",
+    "tvmaze_id": 21607,
+    "network": "CBeebies",
+    "genres": [
+      "Children"
+    ],
+    "rating": null,
+    "officialSite": "http://www.bbc.co.uk/cbeebies/shows/charlie-and-lola"
+  },
+  {
+    "id": "show-34",
+    "title": "Max & Ruby",
+    "age_range": "2-5",
+    "platform": "Paramount+",
+    "description": "Gentle bunny siblings where Ruby's organized plans humorously align with Max's single-minded toy focus.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 7.9,
+      "cuts_per_minute": 7.6,
+      "audio_spike_count": 0,
+      "loudness_variance_db": 3.2,
+      "saturation_score": 34
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 7.9s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/448/1121188.jpg",
+    "tvmaze_id": 21281,
+    "network": "Treehouse",
+    "genres": [
+      "Adventure",
+      "Children"
+    ],
+    "rating": 7.8,
+    "officialSite": "https://www.nickjr.com/shows/max-and-ruby"
+  },
+  {
+    "id": "show-35",
+    "title": "The Snowman",
+    "age_range": "2-10",
+    "platform": "YouTube",
+    "description": "Raymond Briggs' wordless holiday classic with hand-drawn colored pencils and Howard Blake's soaring orchestral score.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 11.2,
+      "cuts_per_minute": 5.4,
+      "audio_spike_count": 0,
+      "loudness_variance_db": 3.2,
+      "saturation_score": 28
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 11.2s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/433/1083855.jpg",
+    "tvmaze_id": 65563,
+    "network": "Channel 4",
+    "genres": [
+      "Adventure",
+      "Children"
+    ],
+    "rating": 5.2,
+    "officialSite": null
+  },
+  {
+    "id": "show-36",
+    "title": "Pocoyo",
+    "age_range": "1-4",
+    "platform": "Netflix",
+    "description": "Toddler in blue exploring basic shapes and animals against a clean white backdrop, minimizing background visual clutter.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 94,
+    "metrics": {
+      "avg_cut_duration_sec": 6.5,
+      "cuts_per_minute": 9.2,
+      "audio_spike_count": 1,
+      "loudness_variance_db": 4.5,
+      "saturation_score": 35
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 6.5s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/24/61880.jpg",
+    "tvmaze_id": 6495,
+    "network": "ITV1",
+    "genres": [
+      "Children"
+    ],
+    "rating": 6.2,
+    "officialSite": null
+  },
+  {
+    "id": "show-37",
+    "title": "My Neighbor Totoro",
+    "age_range": "3-10",
+    "platform": "Max",
+    "description": "Hayao Miyazaki's masterpiece celebrating rural nature, childhood wonder, and tranquil woodland spirits.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 9.6,
+      "cuts_per_minute": 6.2,
+      "audio_spike_count": 0,
+      "loudness_variance_db": 3.2,
+      "saturation_score": 33
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 9.6s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "",
+    "tvmaze_id": null,
+    "network": "Max",
+    "genres": [
+      "Children",
+      "Family"
+    ],
+    "rating": null,
+    "officialSite": null
+  },
+  {
+    "id": "show-38",
+    "title": "Kiki's Delivery Service",
+    "age_range": "5-12",
+    "platform": "Max",
+    "description": "A young witch discovers self-reliance and community purpose in a sunlit coastal European town.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 8.4,
+      "cuts_per_minute": 7.1,
+      "audio_spike_count": 1,
+      "loudness_variance_db": 4.5,
+      "saturation_score": 35
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 8.4s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "",
+    "tvmaze_id": null,
+    "network": "Max",
+    "genres": [
+      "Children",
+      "Family"
+    ],
+    "rating": null,
+    "officialSite": null
+  },
+  {
+    "id": "show-39",
+    "title": "Ponyo",
+    "age_range": "4-10",
+    "platform": "Max",
+    "description": "Magical hand-drawn water animation about a goldfish princess who yearns to be human alongside a loving young boy.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 7.6,
+      "cuts_per_minute": 7.9,
+      "audio_spike_count": 1,
+      "loudness_variance_db": 4.5,
+      "saturation_score": 38
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 7.6s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/508/1270502.jpg",
+    "tvmaze_id": 31753,
+    "network": "Discovery Family",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "rating": 7.5,
+    "officialSite": "https://mylittlepony.hasbro.com/en-us/equestriagirls"
+  },
+  {
+    "id": "show-40",
+    "title": "Der Dodo",
+    "age_range": "3-7",
+    "platform": "YouTube",
+    "description": "Delightful and calm German animation about a friendly boy and his dodo bird navigating countryside life.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 8.3,
+      "cuts_per_minute": 7.2,
+      "audio_spike_count": 0,
+      "loudness_variance_db": 3.2,
+      "saturation_score": 33
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 8.3s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/371/929521.jpg",
+    "tvmaze_id": 58741,
+    "network": "Telemundo",
+    "genres": [
+      "Children",
+      "Family"
+    ],
+    "rating": null,
+    "officialSite": "https://www.telemundo.com/shows/el-domo-del-dinero"
+  },
+  {
+    "id": "show-41",
+    "title": "Hello, Jack! The Kindness Show",
+    "age_range": "3-6",
+    "platform": "Apple TV+",
+    "description": "Jack McBrayer invites children into Clover Grove to discover how small acts of kindness create powerful ripple effects.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 7.3,
+      "cuts_per_minute": 8.2,
+      "audio_spike_count": 1,
+      "loudness_variance_db": 4.5,
+      "saturation_score": 37
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 7.3s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/363/909927.jpg",
+    "tvmaze_id": 58190,
+    "network": "Apple TV",
+    "genres": [
+      "Comedy",
+      "Children"
+    ],
+    "rating": null,
+    "officialSite": "https://tv.apple.com/us/show/hello-jack-the-kindness-show/umc.cmc.67f7csjyodc41iybksdv6s0pt"
+  },
+  {
+    "id": "show-42",
+    "title": "The Reluctant Dragon",
+    "age_range": "4-10",
+    "platform": "Disney+",
+    "description": "Disney classic following an artistic, tea-drinking dragon who writes poetry instead of fighting knights.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 97,
+    "metrics": {
+      "avg_cut_duration_sec": 8.5,
+      "cuts_per_minute": 7.1,
+      "audio_spike_count": 0,
+      "loudness_variance_db": 3.2,
+      "saturation_score": 34
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 8.5s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/450/1126130.jpg",
+    "tvmaze_id": 67325,
+    "network": "ABC",
+    "genres": [
+      "Children",
+      "Family"
+    ],
+    "rating": null,
+    "officialSite": null
+  },
+  {
+    "id": "show-43",
+    "title": "Sesame Street",
+    "age_range": "2-5",
+    "platform": "PBS Kids",
+    "description": "The quintessential educational neighborhood teaching literacy, emotional resilience, and community kindness.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 86,
+    "metrics": {
+      "avg_cut_duration_sec": 5.5,
+      "cuts_per_minute": 10.9,
+      "audio_spike_count": 2,
+      "loudness_variance_db": 5.8,
+      "saturation_score": 40
+    },
+    "audit_notes": [
+      "Moderate visual pacing with ~5.5s between scene transitions.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/597/1494633.jpg",
+    "tvmaze_id": 6544,
+    "network": "Netflix",
+    "genres": [
+      "Children"
+    ],
+    "rating": 8,
+    "officialSite": "https://www.netflix.com/title/83075543"
+  },
+  {
+    "id": "show-44",
+    "title": "Arthur",
+    "age_range": "4-8",
+    "platform": "PBS Kids",
+    "description": "A masterclass in relatable childhood storytelling, handling social friction, school dilemmas, and family honesty.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 94,
+    "metrics": {
+      "avg_cut_duration_sec": 6.3,
+      "cuts_per_minute": 9.5,
+      "audio_spike_count": 1,
+      "loudness_variance_db": 4.5,
+      "saturation_score": 37
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 6.3s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/487/1219265.jpg",
+    "tvmaze_id": 7583,
+    "network": "PBS",
+    "genres": [
+      "Adventure",
+      "Children"
+    ],
+    "rating": 5.3,
+    "officialSite": "http://pbskids.org/arthur/"
+  },
+  {
+    "id": "show-45",
+    "title": "Brambly Hedge",
+    "age_range": "2-8",
+    "platform": "YouTube",
+    "description": "Intricate stop-motion mice living inside oak trees, harvesting berries and celebrating seasonal feasts in complete tranquility.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 10.0,
+      "cuts_per_minute": 6.0,
+      "audio_spike_count": 0,
+      "loudness_variance_db": 3.2,
+      "saturation_score": 30
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 10.0s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/294/737498.jpg",
+    "tvmaze_id": 53215,
+    "network": "BBC One",
+    "genres": [
+      "Children"
+    ],
+    "rating": null,
+    "officialSite": null
+  },
+  {
+    "id": "show-46",
+    "title": "Toot & Puddle",
+    "age_range": "3-7",
+    "platform": "YouTube",
+    "description": "Two best pig friends—one who travels the globe and one who loves staying home—sharing postcards and gentle love.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 7.5,
+      "cuts_per_minute": 8.0,
+      "audio_spike_count": 0,
+      "loudness_variance_db": 3.2,
+      "saturation_score": 34
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 7.5s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/488/1221639.jpg",
+    "tvmaze_id": 72924,
+    "network": "Nick Jr.",
+    "genres": [
+      "Children",
+      "Family"
+    ],
+    "rating": null,
+    "officialSite": null
+  },
+  {
+    "id": "show-47",
+    "title": "Rupert",
+    "age_range": "4-8",
+    "platform": "YouTube",
+    "description": "Calm, storybook English adventures of Rupert Bear solving mysteries in Nutwood with wisdom and politeness.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 7.1,
+      "cuts_per_minute": 8.5,
+      "audio_spike_count": 1,
+      "loudness_variance_db": 4.5,
+      "saturation_score": 35
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 7.1s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/61/152569.jpg",
+    "tvmaze_id": 17993,
+    "network": "YTV",
+    "genres": [
+      "Children"
+    ],
+    "rating": 4.5,
+    "officialSite": null
+  },
+  {
+    "id": "show-48",
+    "title": "Timothy Goes to School",
+    "age_range": "3-7",
+    "platform": "YouTube",
+    "description": "Rosemary Wells' warm animal school environment teaching first-time students how to fit in and make genuine friends.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 7.7,
+      "cuts_per_minute": 7.8,
+      "audio_spike_count": 0,
+      "loudness_variance_db": 3.2,
+      "saturation_score": 33
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 7.7s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/76/191942.jpg",
+    "tvmaze_id": 21527,
+    "network": "PBS",
+    "genres": [
+      "Children"
+    ],
+    "rating": null,
+    "officialSite": null
+  },
+  {
+    "id": "show-49",
+    "title": "Kipper the Dog",
+    "age_range": "2-6",
+    "platform": "YouTube",
+    "description": "Mick Inkpen's classic tranquil series about a gentle dog, his friend Tiger, and quiet afternoons of pure imagination.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 9.7,
+      "cuts_per_minute": 6.2,
+      "audio_spike_count": 0,
+      "loudness_variance_db": 3.2,
+      "saturation_score": 28
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 9.7s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "",
+    "tvmaze_id": null,
+    "network": "YouTube",
+    "genres": [
+      "Children",
+      "Family"
+    ],
+    "rating": null,
+    "officialSite": null
+  },
+  {
+    "id": "show-50",
+    "title": "Mofy",
+    "age_range": "2-5",
+    "platform": "YouTube",
+    "description": "Warm Italian-Japanese stop-motion made entirely of fluffy cotton wool, dealing with soft emotional development.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 8.0,
+      "cuts_per_minute": 7.5,
+      "audio_spike_count": 0,
+      "loudness_variance_db": 3.2,
+      "saturation_score": 33
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 8.0s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/252/630925.jpg",
+    "tvmaze_id": 47290,
+    "network": "Rai 2",
+    "genres": [
+      "Children"
+    ],
+    "rating": 4.5,
+    "officialSite": null
+  },
+  {
+    "id": "show-51",
+    "title": "Octonauts",
+    "age_range": "3-7",
+    "platform": "Netflix",
+    "description": "Aquatic adventurers explore marine habitats and rescue sea creatures with structured problem solving.",
+    "stimulation_level": "medium",
+    "status_verdict": "caution",
+    "calm_score": 69,
+    "metrics": {
+      "avg_cut_duration_sec": 4.6,
+      "cuts_per_minute": 13.0,
+      "audio_spike_count": 3,
+      "loudness_variance_db": 7.1,
+      "saturation_score": 44
+    },
+    "audit_notes": [
+      "Moderate visual pacing with ~4.6s between scene transitions.",
+      "Occasional energetic sound effects and lively character banter."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/81/203713.jpg",
+    "tvmaze_id": 17756,
+    "network": "CBeebies",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Children"
+    ],
+    "rating": null,
+    "officialSite": "http://www.bbc.co.uk/cbeebies/shows/octonauts"
+  },
+  {
+    "id": "show-52",
+    "title": "Wild Kratts",
+    "age_range": "4-9",
+    "platform": "PBS Kids",
+    "description": "Brothers Chris and Martin Kratt use animal creature suits to explore wildlife biology in animated missions.",
+    "stimulation_level": "medium",
+    "status_verdict": "caution",
+    "calm_score": 72,
+    "metrics": {
+      "avg_cut_duration_sec": 4.8,
+      "cuts_per_minute": 12.5,
+      "audio_spike_count": 3,
+      "loudness_variance_db": 7.1,
+      "saturation_score": 43
+    },
+    "audit_notes": [
+      "Moderate visual pacing with ~4.8s between scene transitions.",
+      "Occasional energetic sound effects and lively character banter."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/32/81100.jpg",
+    "tvmaze_id": 9188,
+    "network": "PBS Kids",
+    "genres": [
+      "Children",
+      "Nature"
+    ],
+    "rating": 6,
+    "officialSite": "http://www.pbs.org/parents/wildkratts/"
+  },
+  {
+    "id": "show-53",
+    "title": "Odd Squad",
+    "age_range": "4-8",
+    "platform": "PBS Kids",
+    "description": "Live-action kids agents solve bizarre mathematical anomalies with dry humor and cooperative teamwork.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 83,
+    "metrics": {
+      "avg_cut_duration_sec": 5.0,
+      "cuts_per_minute": 12.0,
+      "audio_spike_count": 2,
+      "loudness_variance_db": 5.8,
+      "saturation_score": 40
+    },
+    "audit_notes": [
+      "Moderate visual pacing with ~5.0s between scene transitions.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/126/316686.jpg",
+    "tvmaze_id": 8572,
+    "network": "PBS",
+    "genres": [
+      "Children"
+    ],
+    "rating": null,
+    "officialSite": "http://pbskids.org/oddsquad/"
+  },
+  {
+    "id": "show-54",
+    "title": "The Magic School Bus",
+    "age_range": "4-10",
+    "platform": "Netflix",
+    "description": "Ms. Frizzle leads eccentric, hands-on scientific expeditions through human anatomy, ecosystems, and space.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 82,
+    "metrics": {
+      "avg_cut_duration_sec": 5.1,
+      "cuts_per_minute": 11.8,
+      "audio_spike_count": 3,
+      "loudness_variance_db": 7.1,
+      "saturation_score": 43
+    },
+    "audit_notes": [
+      "Moderate visual pacing with ~5.1s between scene transitions.",
+      "Occasional energetic sound effects and lively character banter."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/63/157993.jpg",
+    "tvmaze_id": 18504,
+    "network": "PBS",
+    "genres": [
+      "Adventure",
+      "Children"
+    ],
+    "rating": 5.3,
+    "officialSite": null
+  },
+  {
+    "id": "show-55",
+    "title": "Hey Duggee",
+    "age_range": "1-5",
+    "platform": "Netflix",
+    "description": "Energetic but structured Squirrel Club badges guided by a big, silent dog with clever dry humor for parents.",
+    "stimulation_level": "medium",
+    "status_verdict": "caution",
+    "calm_score": 72,
+    "metrics": {
+      "avg_cut_duration_sec": 4.9,
+      "cuts_per_minute": 12.2,
+      "audio_spike_count": 3,
+      "loudness_variance_db": 7.1,
+      "saturation_score": 45
+    },
+    "audit_notes": [
+      "Moderate visual pacing with ~4.9s between scene transitions.",
+      "Occasional energetic sound effects and lively character banter."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/75/188774.jpg",
+    "tvmaze_id": 21311,
+    "network": "BBC iPlayer",
+    "genres": [
+      "Children"
+    ],
+    "rating": 5.2,
+    "officialSite": "http://www.bbc.co.uk/cbeebies/shows/hey-duggee"
+  },
+  {
+    "id": "show-56",
+    "title": "Hilda",
+    "age_range": "6-12",
+    "platform": "Netflix",
+    "description": "A fearless blue-haired girl befriends folklore creatures in an atmospheric, Nordic-inspired landscape.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 86,
+    "metrics": {
+      "avg_cut_duration_sec": 5.8,
+      "cuts_per_minute": 10.3,
+      "audio_spike_count": 2,
+      "loudness_variance_db": 5.8,
+      "saturation_score": 38
+    },
+    "audit_notes": [
+      "Moderate visual pacing with ~5.8s between scene transitions.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/479/1199144.jpg",
+    "tvmaze_id": 25910,
+    "network": "Netflix",
+    "genres": [
+      "Adventure",
+      "Children",
+      "Fantasy"
+    ],
+    "rating": 8,
+    "officialSite": "https://www.netflix.com/title/80115346"
+  },
+  {
+    "id": "show-57",
+    "title": "Avatar: The Last Airbender",
+    "age_range": "8-14",
+    "platform": "Netflix",
+    "description": "Richly animated epic exploring martial arts, spiritual philosophy, and profound moral complexity.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 79,
+    "metrics": {
+      "avg_cut_duration_sec": 5.2,
+      "cuts_per_minute": 11.5,
+      "audio_spike_count": 3,
+      "loudness_variance_db": 7.1,
+      "saturation_score": 42
+    },
+    "audit_notes": [
+      "Moderate visual pacing with ~5.2s between scene transitions.",
+      "Occasional energetic sound effects and lively character banter."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/633/1582667.jpg",
+    "tvmaze_id": 38753,
+    "network": "Netflix",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "rating": 7.4,
+    "officialSite": "https://www.netflix.com/title/80237957"
+  },
+  {
+    "id": "show-58",
+    "title": "Kipo and the Age of Wonderbeasts",
+    "age_range": "7-13",
+    "platform": "Netflix",
+    "description": "A cheerful girl navigates a vibrant post-apocalyptic surface world filled with music and mutant animals.",
+    "stimulation_level": "medium",
+    "status_verdict": "caution",
+    "calm_score": 72,
+    "metrics": {
+      "avg_cut_duration_sec": 4.4,
+      "cuts_per_minute": 13.6,
+      "audio_spike_count": 4,
+      "loudness_variance_db": 8.4,
+      "saturation_score": 48
+    },
+    "audit_notes": [
+      "Moderate visual pacing with ~4.4s between scene transitions.",
+      "Occasional energetic sound effects and lively character banter."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/272/682154.jpg",
+    "tvmaze_id": 42593,
+    "network": "Netflix",
+    "genres": [
+      "Adventure",
+      "Children",
+      "Fantasy"
+    ],
+    "rating": 7.2,
+    "officialSite": "https://www.netflix.com/title/80221553"
+  },
+  {
+    "id": "show-59",
+    "title": "Spirit Riding Free",
+    "age_range": "5-10",
+    "platform": "Netflix",
+    "description": "Frontier adventures centered on equestrian trust, female camaraderie, and outdoor responsibility.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 82,
+    "metrics": {
+      "avg_cut_duration_sec": 5.0,
+      "cuts_per_minute": 12.0,
+      "audio_spike_count": 2,
+      "loudness_variance_db": 5.8,
+      "saturation_score": 42
+    },
+    "audit_notes": [
+      "Moderate visual pacing with ~5.0s between scene transitions.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/247/617649.jpg",
+    "tvmaze_id": 25912,
+    "network": "Netflix",
+    "genres": [
+      "Adventure",
+      "Children",
+      "Western"
+    ],
+    "rating": null,
+    "officialSite": "https://www.netflix.com/title/80115432"
+  },
+  {
+    "id": "show-60",
+    "title": "She-Ra and the Princesses of Power",
+    "age_range": "7-13",
+    "platform": "Netflix",
+    "description": "A reboot rich in emotional nuance, redemption arcs, and diverse friendship dynamics with fast-paced magic battles.",
+    "stimulation_level": "medium",
+    "status_verdict": "caution",
+    "calm_score": 71,
+    "metrics": {
+      "avg_cut_duration_sec": 4.3,
+      "cuts_per_minute": 14.0,
+      "audio_spike_count": 4,
+      "loudness_variance_db": 8.4,
+      "saturation_score": 47
+    },
+    "audit_notes": [
+      "Moderate visual pacing with ~4.3s between scene transitions.",
+      "Occasional energetic sound effects and lively character banter."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/255/639875.jpg",
+    "tvmaze_id": 37089,
+    "network": "Netflix",
+    "genres": [
+      "Adventure",
+      "Children",
+      "Fantasy"
+    ],
+    "rating": 7.7,
+    "officialSite": "https://www.netflix.com/title/80179762"
+  },
+  {
+    "id": "show-61",
+    "title": "Over the Garden Wall",
+    "age_range": "7-13",
+    "platform": "Max",
+    "description": "Folk-art autumn miniseries following two brothers lost in the woods with hauntingly calm melodies.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 94,
+    "metrics": {
+      "avg_cut_duration_sec": 6.5,
+      "cuts_per_minute": 9.2,
+      "audio_spike_count": 1,
+      "loudness_variance_db": 4.5,
+      "saturation_score": 36
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 6.5s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/221/554447.jpg",
+    "tvmaze_id": 1744,
+    "network": "Cartoon Network",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "rating": 8.1,
+    "officialSite": null
+  },
+  {
+    "id": "show-62",
+    "title": "Fraggle Rock: Back to the Rock",
+    "age_range": "4-10",
+    "platform": "Apple TV+",
+    "description": "Joyful musical Jim Henson puppets teaching interconnected ecological and community harmony.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 82,
+    "metrics": {
+      "avg_cut_duration_sec": 5.4,
+      "cuts_per_minute": 11.1,
+      "audio_spike_count": 3,
+      "loudness_variance_db": 7.1,
+      "saturation_score": 44
+    },
+    "audit_notes": [
+      "Moderate visual pacing with ~5.4s between scene transitions.",
+      "Occasional energetic sound effects and lively character banter."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/509/1274226.jpg",
+    "tvmaze_id": 59005,
+    "network": "Apple TV",
+    "genres": [
+      "Children",
+      "Family"
+    ],
+    "rating": 8,
+    "officialSite": "https://tv.apple.com/show/fraggle-back-to-the-rock/umc.cmc.2r077021gw7fu0noml0hln2yq?ign-itscg=80098&ign-itsct=atvp_backtotherock_gen_gen"
+  },
+  {
+    "id": "show-63",
+    "title": "Ghostwriter",
+    "age_range": "8-12",
+    "platform": "Apple TV+",
+    "description": "A literary mystery series encouraging reading analysis and detective logic in a quiet urban neighborhood.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 94,
+    "metrics": {
+      "avg_cut_duration_sec": 5.9,
+      "cuts_per_minute": 10.2,
+      "audio_spike_count": 1,
+      "loudness_variance_db": 4.5,
+      "saturation_score": 38
+    },
+    "audit_notes": [
+      "Moderate visual pacing with ~5.9s between scene transitions.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/53/132696.jpg",
+    "tvmaze_id": 15727,
+    "network": "PBS",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "rating": null,
+    "officialSite": null
+  },
+  {
+    "id": "show-64",
+    "title": "Wolfboy and the Everything Factory",
+    "age_range": "6-11",
+    "platform": "Apple TV+",
+    "description": "Imaginative world where nature's phenomena are crafted by curious Sprytes beneath the Earth.",
+    "stimulation_level": "medium",
+    "status_verdict": "caution",
+    "calm_score": 72,
+    "metrics": {
+      "avg_cut_duration_sec": 4.7,
+      "cuts_per_minute": 12.8,
+      "audio_spike_count": 3,
+      "loudness_variance_db": 7.1,
+      "saturation_score": 45
+    },
+    "audit_notes": [
+      "Moderate visual pacing with ~4.7s between scene transitions.",
+      "Occasional energetic sound effects and lively character banter."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/450/1125404.jpg",
+    "tvmaze_id": 57461,
+    "network": "Apple TV",
+    "genres": [
+      "Adventure",
+      "Children"
+    ],
+    "rating": null,
+    "officialSite": "https://tv.apple.com/show/umc.cmc.6f1xxgn2dg52deawakawg20r9"
+  },
+  {
+    "id": "show-65",
+    "title": "Simon Super Rabbit",
+    "age_range": "2-5",
+    "platform": "Netflix",
+    "description": "French animated rabbit exploring childhood independence, sharing challenges, and imaginative playtime.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 82,
+    "metrics": {
+      "avg_cut_duration_sec": 5.2,
+      "cuts_per_minute": 11.5,
+      "audio_spike_count": 2,
+      "loudness_variance_db": 5.8,
+      "saturation_score": 41
+    },
+    "audit_notes": [
+      "Moderate visual pacing with ~5.2s between scene transitions.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "",
+    "tvmaze_id": null,
+    "network": "Netflix",
+    "genres": [
+      "Children",
+      "Family"
+    ],
+    "rating": null,
+    "officialSite": null
+  },
+  {
+    "id": "show-66",
+    "title": "Anne with an E",
+    "age_range": "9-14",
+    "platform": "Netflix",
+    "description": "Lyrical period drama celebrating Anne Shirley's indomitable imagination, love of nature, and resilience.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 99,
+    "metrics": {
+      "avg_cut_duration_sec": 7.0,
+      "cuts_per_minute": 8.6,
+      "audio_spike_count": 1,
+      "loudness_variance_db": 4.5,
+      "saturation_score": 35
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 7.0s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/213/533113.jpg",
+    "tvmaze_id": 20400,
+    "network": "CBC",
+    "genres": [
+      "Drama",
+      "Family",
+      "History"
+    ],
+    "rating": 7.9,
+    "officialSite": "https://www.cbc.ca/anne/"
+  },
+  {
+    "id": "show-67",
+    "title": "The Healing Powers of Dude",
+    "age_range": "7-12",
+    "platform": "Netflix",
+    "description": "A boy with social anxiety disorder finds emotional security through his goofy support dog in middle school.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 94,
+    "metrics": {
+      "avg_cut_duration_sec": 6.1,
+      "cuts_per_minute": 9.8,
+      "audio_spike_count": 1,
+      "loudness_variance_db": 4.5,
+      "saturation_score": 38
+    },
+    "audit_notes": [
+      "Slow visual pacing with lingering shots averaging 6.1s per cut.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting.",
+      "Muted, warm, or pastel color palette gentle on young developing eyes."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/232/582489.jpg",
+    "tvmaze_id": 42696,
+    "network": "Netflix",
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "rating": 6,
+    "officialSite": "https://www.netflix.com/title/80239306"
+  },
+  {
+    "id": "show-68",
+    "title": "Maya the Bee",
+    "age_range": "2-6",
+    "platform": "Netflix",
+    "description": "A spirited young bee explores meadow life and insect biodiversity with cheerful optimism.",
+    "stimulation_level": "low",
+    "status_verdict": "passed",
+    "calm_score": 82,
+    "metrics": {
+      "avg_cut_duration_sec": 5.5,
+      "cuts_per_minute": 10.9,
+      "audio_spike_count": 2,
+      "loudness_variance_db": 5.8,
+      "saturation_score": 42
+    },
+    "audit_notes": [
+      "Moderate visual pacing with ~5.5s between scene transitions.",
+      "Gentle soundscape with steady acoustic/dialogue levels and no sudden shouting."
+    ],
+    "calmer_alternatives": [],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/118/297150.jpg",
+    "tvmaze_id": 29971,
+    "network": "TV Osaka",
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Family"
+    ],
+    "rating": null,
+    "officialSite": null
+  },
+  {
+    "id": "show-69",
+    "title": "Cocomelon",
+    "age_range": "1-4",
+    "platform": "Netflix",
+    "description": "Fast-paced 3D nursery rhyme show with scene cuts every 1.5 to 2 seconds, continuous auto-tuned sound hooks, and hyper-saturated visuals.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 20,
+    "metrics": {
+      "avg_cut_duration_sec": 1.7,
+      "cuts_per_minute": 35.3,
+      "audio_spike_count": 9,
+      "loudness_variance_db": 14.9,
+      "saturation_score": 72
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 1.7s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Trash Truck",
+      "Little Bear",
+      "Puffin Rock",
+      "Tumble Leaf"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/483/1208620.jpg",
+    "tvmaze_id": 71580,
+    "network": "Netflix",
+    "genres": [
+      "Children"
+    ],
+    "rating": null,
+    "officialSite": "https://www.netflix.com/title/81423472"
+  },
+  {
+    "id": "show-70",
+    "title": "Paw Patrol",
+    "age_range": "3-7",
+    "platform": "Paramount+",
+    "description": "Rescue dogs with heavy vehicular sirens, frantic emergency alarm sirens, rapid scene cuts, and merchandise-driven tension.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 38,
+    "metrics": {
+      "avg_cut_duration_sec": 2.4,
+      "cuts_per_minute": 25.0,
+      "audio_spike_count": 8,
+      "loudness_variance_db": 13.6,
+      "saturation_score": 65
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 2.4s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Trash Truck",
+      "Bluey",
+      "Postman Pat",
+      "Nature Cat"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/608/1521295.jpg",
+    "tvmaze_id": 894,
+    "network": "TVO",
+    "genres": [
+      "Comedy",
+      "Action",
+      "Adventure"
+    ],
+    "rating": 6.2,
+    "officialSite": "https://pawpatrolandfriends.com/"
+  },
+  {
+    "id": "show-71",
+    "title": "PJ Masks",
+    "age_range": "3-7",
+    "platform": "Disney+",
+    "description": "Nighttime superhero battles filled with shouting villains, strobe laser flashes, and intense conflict dynamics.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 14,
+    "metrics": {
+      "avg_cut_duration_sec": 2.1,
+      "cuts_per_minute": 28.6,
+      "audio_spike_count": 9,
+      "loudness_variance_db": 14.9,
+      "saturation_score": 68
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 2.1s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Lucas the Spider",
+      "Little Einsteins",
+      "Daniel Tiger's Neighborhood"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/19/48364.jpg",
+    "tvmaze_id": 3855,
+    "network": "Disney Channel",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Children"
+    ],
+    "rating": 6.2,
+    "officialSite": null
+  },
+  {
+    "id": "show-72",
+    "title": "Peppa Pig",
+    "age_range": "2-6",
+    "platform": "Paramount+",
+    "description": "Simple 2D animation, but features frequent high-pitched snorting, family body-shaming tropes, and tantrum behaviors that toddlers frequently mimic.",
+    "stimulation_level": "medium",
+    "status_verdict": "caution",
+    "calm_score": 61,
+    "metrics": {
+      "avg_cut_duration_sec": 3.8,
+      "cuts_per_minute": 15.8,
+      "audio_spike_count": 7,
+      "loudness_variance_db": 12.3,
+      "saturation_score": 52
+    },
+    "audit_notes": [
+      "Moderate visual pacing with ~3.8s between scene transitions.",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music."
+    ],
+    "calmer_alternatives": [
+      "Bluey",
+      "Little Bear",
+      "Sarah & Duck",
+      "Frog and Toad"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/569/1423757.jpg",
+    "tvmaze_id": 4972,
+    "network": "5",
+    "genres": [
+      "Children"
+    ],
+    "rating": 4.9,
+    "officialSite": "https://www.channel5.com/show/peppa-pig"
+  },
+  {
+    "id": "show-73",
+    "title": "Blippi",
+    "age_range": "2-6",
+    "platform": "Netflix",
+    "description": "High-octane adult host speaking in exaggerated falsetto with frantic camera zooms, repetitive sound effects, and fast pacing.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 30,
+    "metrics": {
+      "avg_cut_duration_sec": 2.2,
+      "cuts_per_minute": 27.3,
+      "audio_spike_count": 10,
+      "loudness_variance_db": 16.2,
+      "saturation_score": 66
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 2.2s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Mister Rogers' Neighborhood",
+      "Trash Truck",
+      "Curious George"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/398/996515.jpg",
+    "tvmaze_id": 60848,
+    "network": "YouTube",
+    "genres": [
+      "Children",
+      "Family"
+    ],
+    "rating": null,
+    "officialSite": null
+  },
+  {
+    "id": "show-74",
+    "title": "Teen Titans Go!",
+    "age_range": "7-13",
+    "platform": "Max",
+    "description": "Hyperactive slapstick parody characterized by shouting dialogue, frantic visual gags, strobe explosions, and sensory chaos.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 13,
+    "metrics": {
+      "avg_cut_duration_sec": 1.5,
+      "cuts_per_minute": 40.0,
+      "audio_spike_count": 12,
+      "loudness_variance_db": 18.8,
+      "saturation_score": 74
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 1.5s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Avatar: The Last Airbender",
+      "Shaun the Sheep",
+      "Hilda"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/599/1497769.jpg",
+    "tvmaze_id": 706,
+    "network": "Cartoon Network",
+    "genres": [
+      "Comedy",
+      "Action",
+      "Science-Fiction"
+    ],
+    "rating": 6.9,
+    "officialSite": "http://www.cartoonnetwork.com/video/teen-titans-go/"
+  },
+  {
+    "id": "show-75",
+    "title": "Spidey and His Amazing Friends",
+    "age_range": "3-7",
+    "platform": "Disney+",
+    "description": "Marvel preschool spin-off featuring fast-paced web battles, relentless electronic synth beats, and rapid cut editing.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 38,
+    "metrics": {
+      "avg_cut_duration_sec": 2.3,
+      "cuts_per_minute": 26.1,
+      "audio_spike_count": 8,
+      "loudness_variance_db": 13.6,
+      "saturation_score": 67
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 2.3s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Wild Kratts",
+      "Bluey",
+      "Trash Truck"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/513/1283968.jpg",
+    "tvmaze_id": 43708,
+    "network": "Disney Junior",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Children"
+    ],
+    "rating": 7.4,
+    "officialSite": "https://disneynow.com/shows/spidey-and-his-amazing-friends"
+  },
+  {
+    "id": "show-76",
+    "title": "Gabby's Dollhouse",
+    "age_range": "3-6",
+    "platform": "Netflix",
+    "description": "Glittery, high-energy toy unboxing aesthetic featuring rapid confetti transitions, constant upbeat pop tracks, and intense visual stimulation.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 44,
+    "metrics": {
+      "avg_cut_duration_sec": 2.6,
+      "cuts_per_minute": 23.1,
+      "audio_spike_count": 8,
+      "loudness_variance_db": 13.6,
+      "saturation_score": 69
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 2.6s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Tumble Leaf",
+      "Sarah & Duck",
+      "Puffin Rock"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/468/1172282.jpg",
+    "tvmaze_id": 51222,
+    "network": "Netflix",
+    "genres": [
+      "Children"
+    ],
+    "rating": 6.6,
+    "officialSite": "https://www.netflix.com/title/81009946"
+  },
+  {
+    "id": "show-77",
+    "title": "Blaze and the Monster Machines",
+    "age_range": "3-7",
+    "platform": "Paramount+",
+    "description": "Teaches STEM physics concepts, but set within high-octane monster truck races with roaring engines and shouting characters.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 27,
+    "metrics": {
+      "avg_cut_duration_sec": 2.2,
+      "cuts_per_minute": 27.3,
+      "audio_spike_count": 9,
+      "loudness_variance_db": 14.9,
+      "saturation_score": 68
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 2.2s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Trash Truck",
+      "Nature Cat",
+      "Curious George"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/448/1121173.jpg",
+    "tvmaze_id": 3996,
+    "network": "Nickelodeon",
+    "genres": [
+      "Comedy",
+      "Action",
+      "Children"
+    ],
+    "rating": 6.2,
+    "officialSite": "https://www.nickjr.com/shows/blaze-and-the-monster-machines"
+  },
+  {
+    "id": "show-78",
+    "title": "Ryan's World",
+    "age_range": "3-8",
+    "platform": "YouTube",
+    "description": "Toy unboxing and reaction content engineered with algorithmic sound effects, commercial dopamine spikes, and hyper editing.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 17,
+    "metrics": {
+      "avg_cut_duration_sec": 1.6,
+      "cuts_per_minute": 37.5,
+      "audio_spike_count": 11,
+      "loudness_variance_db": 17.5,
+      "saturation_score": 73
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 1.6s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Mister Rogers' Neighborhood",
+      "Trash Truck",
+      "Little Bear"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/110/276598.jpg",
+    "tvmaze_id": 27941,
+    "network": "Bravo",
+    "genres": [
+      "Children",
+      "Family"
+    ],
+    "rating": null,
+    "officialSite": null
+  },
+  {
+    "id": "show-79",
+    "title": "Miraculous: Tales of Ladybug & Cat Noir",
+    "age_range": "7-13",
+    "platform": "Disney+",
+    "description": "Superhero action series with rapid 3D fight sequences, emotional stress, and high-tension cliffhangers.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 38,
+    "metrics": {
+      "avg_cut_duration_sec": 2.5,
+      "cuts_per_minute": 24.0,
+      "audio_spike_count": 7,
+      "loudness_variance_db": 12.3,
+      "saturation_score": 64
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 2.5s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Hilda",
+      "Kiki's Delivery Service",
+      "Anne with an E"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/599/1499134.jpg",
+    "tvmaze_id": 5557,
+    "network": "TF1",
+    "genres": [
+      "Comedy",
+      "Action",
+      "Fantasy"
+    ],
+    "rating": 7.3,
+    "officialSite": "https://www.miraculousladybug.com/en/"
+  },
+  {
+    "id": "show-80",
+    "title": "Sonic Prime",
+    "age_range": "6-12",
+    "platform": "Netflix",
+    "description": "Multiverse action centered on super-speed dashes, explosion-heavy combat, and continuous high-intensity beats.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 14,
+    "metrics": {
+      "avg_cut_duration_sec": 1.8,
+      "cuts_per_minute": 33.3,
+      "audio_spike_count": 10,
+      "loudness_variance_db": 16.2,
+      "saturation_score": 70
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 1.8s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Shaun the Sheep",
+      "Avatar: The Last Airbender",
+      "Hilda"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/428/1071073.jpg",
+    "tvmaze_id": 53242,
+    "network": "Netflix",
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Children"
+    ],
+    "rating": 6.7,
+    "officialSite": "https://www.netflix.com/title/81294811"
+  },
+  {
+    "id": "show-81",
+    "title": "Lego Ninjago",
+    "age_range": "6-12",
+    "platform": "Netflix",
+    "description": "Martial arts fantasy featuring perpetual ninja battles, villain confrontations, and fast-paced sound effects.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 35,
+    "metrics": {
+      "avg_cut_duration_sec": 2.3,
+      "cuts_per_minute": 26.1,
+      "audio_spike_count": 8,
+      "loudness_variance_db": 13.6,
+      "saturation_score": 63
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 2.3s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Avatar: The Last Airbender",
+      "Over the Garden Wall"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/306/765660.jpg",
+    "tvmaze_id": 18374,
+    "network": "Cartoon Network",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Children"
+    ],
+    "rating": 6.8,
+    "officialSite": "http://www.cartoonnetwork.com/games/ninjago/spinjitzu-snakedown/"
+  },
+  {
+    "id": "show-82",
+    "title": "Baby Shark's Big Show!",
+    "age_range": "2-5",
+    "platform": "Paramount+",
+    "description": "Extremely high earworm frequency, repetitive loud musical stingers, and flashing underwater color saturation.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 23,
+    "metrics": {
+      "avg_cut_duration_sec": 2.0,
+      "cuts_per_minute": 30.0,
+      "audio_spike_count": 9,
+      "loudness_variance_db": 14.9,
+      "saturation_score": 71
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 2.0s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Puffin Rock",
+      "Oswald",
+      "Little Bear"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/448/1121172.jpg",
+    "tvmaze_id": 54098,
+    "network": "Nick Jr.",
+    "genres": [
+      "Children",
+      "Family"
+    ],
+    "rating": 5.8,
+    "officialSite": "https://www.nickjr.com/shows/baby-sharks-big-show"
+  },
+  {
+    "id": "show-83",
+    "title": "Vlad and Niki",
+    "age_range": "2-6",
+    "platform": "YouTube",
+    "description": "Algorithmic toddler YouTube format featuring sped-up sound effects, fake shrieking laugh tracks, and sensory overload.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 23,
+    "metrics": {
+      "avg_cut_duration_sec": 1.5,
+      "cuts_per_minute": 40.0,
+      "audio_spike_count": 12,
+      "loudness_variance_db": 18.8,
+      "saturation_score": 75
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 1.5s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Trash Truck",
+      "Daniel Tiger's Neighborhood",
+      "Tumble Leaf"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/490/1225320.jpg",
+    "tvmaze_id": 73125,
+    "network": "HBO Max",
+    "genres": [
+      "Children",
+      "Family"
+    ],
+    "rating": null,
+    "officialSite": "https://www.max.com/shows/vlad-niki/f5c83d0b-420e-4a6d-ab0b-814dbe8029b5"
+  },
+  {
+    "id": "show-84",
+    "title": "The Loud House",
+    "age_range": "6-11",
+    "platform": "Paramount+",
+    "description": "Household comedy with 11 siblings shouting over one another, rapid door-slamming chaos, and sensory friction.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 44,
+    "metrics": {
+      "avg_cut_duration_sec": 2.7,
+      "cuts_per_minute": 22.2,
+      "audio_spike_count": 8,
+      "loudness_variance_db": 13.6,
+      "saturation_score": 60
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 2.7s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Arthur",
+      "Bluey",
+      "Charlie and Lola"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/617/1544440.jpg",
+    "tvmaze_id": 6405,
+    "network": "Nickelodeon",
+    "genres": [
+      "Comedy",
+      "Children",
+      "Family"
+    ],
+    "rating": 7.3,
+    "officialSite": "http://www.nick.com/loud-house/"
+  },
+  {
+    "id": "show-85",
+    "title": "SpongeBob SquarePants",
+    "age_range": "6-12",
+    "platform": "Paramount+",
+    "description": "Classic cartoon comedy, but clinically shown in child psychology studies to cause immediate post-viewing executive function dips due to rapid surreal transitions.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 33,
+    "metrics": {
+      "avg_cut_duration_sec": 2.6,
+      "cuts_per_minute": 23.1,
+      "audio_spike_count": 9,
+      "loudness_variance_db": 14.9,
+      "saturation_score": 62
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 2.6s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Shaun the Sheep",
+      "Arthur",
+      "Curious George"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/594/1486607.jpg",
+    "tvmaze_id": 713,
+    "network": "Nickelodeon",
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Fantasy"
+    ],
+    "rating": 8,
+    "officialSite": "http://www.nick.com/spongebob-squarepants/"
+  },
+  {
+    "id": "show-86",
+    "title": "Transformers: Rescue Bots",
+    "age_range": "4-8",
+    "platform": "Netflix",
+    "description": "Disaster rescue action with frequent alarms, loud mechanical gear shifts, and continuous urgent emergencies.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 41,
+    "metrics": {
+      "avg_cut_duration_sec": 2.8,
+      "cuts_per_minute": 21.4,
+      "audio_spike_count": 7,
+      "loudness_variance_db": 12.3,
+      "saturation_score": 63
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 2.8s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Trash Truck",
+      "Curious George",
+      "Nature Cat"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/23/58408.jpg",
+    "tvmaze_id": 5907,
+    "network": "Discovery Family",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science-Fiction"
+    ],
+    "rating": 6.2,
+    "officialSite": null
+  },
+  {
+    "id": "show-87",
+    "title": "Pokémon (Modern Seasons)",
+    "age_range": "6-12",
+    "platform": "Netflix",
+    "description": "Elemental monster combat with flashing electric attacks, stadium roaring crowds, and fast-paced tournament tension.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 41,
+    "metrics": {
+      "avg_cut_duration_sec": 2.4,
+      "cuts_per_minute": 25.0,
+      "audio_spike_count": 8,
+      "loudness_variance_db": 13.6,
+      "saturation_score": 66
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 2.4s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "My Neighbor Totoro",
+      "Ponyo",
+      "Kiki's Delivery Service"
+    ],
+    "imageUrl": "",
+    "tvmaze_id": null,
+    "network": "Netflix",
+    "genres": [
+      "Children",
+      "Family"
+    ],
+    "rating": null,
+    "officialSite": null
+  },
+  {
+    "id": "show-88",
+    "title": "Mighty Express",
+    "age_range": "3-6",
+    "platform": "Netflix",
+    "description": "Speeding train emergencies, shouting locomotives, and high-frequency visual cuts designed for toy marketing.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 41,
+    "metrics": {
+      "avg_cut_duration_sec": 2.2,
+      "cuts_per_minute": 27.3,
+      "audio_spike_count": 8,
+      "loudness_variance_db": 13.6,
+      "saturation_score": 68
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 2.2s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Trash Truck",
+      "Postman Pat",
+      "Tumble Leaf"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/274/686450.jpg",
+    "tvmaze_id": 50120,
+    "network": "Netflix",
+    "genres": [
+      "Children"
+    ],
+    "rating": null,
+    "officialSite": "https://www.netflix.com/title/81033141"
+  },
+  {
+    "id": "show-89",
+    "title": "Monster High",
+    "age_range": "7-13",
+    "platform": "Paramount+",
+    "description": "High-fashion teenage monster drama with rapid club beats, sarcasm-heavy dialogue, and fast scene changes.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 41,
+    "metrics": {
+      "avg_cut_duration_sec": 2.4,
+      "cuts_per_minute": 25.0,
+      "audio_spike_count": 7,
+      "loudness_variance_db": 12.3,
+      "saturation_score": 65
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 2.4s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Hilda",
+      "Kiki's Delivery Service"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/423/1059075.jpg",
+    "tvmaze_id": 64342,
+    "network": "Nickelodeon",
+    "genres": [
+      "Children",
+      "Family"
+    ],
+    "rating": 7.3,
+    "officialSite": "https://www.nick.com/shows/monster-high"
+  },
+  {
+    "id": "show-90",
+    "title": "Super Wings",
+    "age_range": "3-7",
+    "platform": "Netflix",
+    "description": "Airplanes transforming into robots to solve emergencies across the globe with supersonic speeds and loud sirens.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 22,
+    "metrics": {
+      "avg_cut_duration_sec": 2.1,
+      "cuts_per_minute": 28.6,
+      "audio_spike_count": 9,
+      "loudness_variance_db": 14.9,
+      "saturation_score": 69
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 2.1s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Postman Pat",
+      "Trash Truck",
+      "Puffin Rock"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/40/101240.jpg",
+    "tvmaze_id": 12072,
+    "network": "EBS",
+    "genres": [
+      "Food",
+      "Nature",
+      "Travel"
+    ],
+    "rating": null,
+    "officialSite": "http://www.sproutonline.com/shows/super-wings"
+  },
+  {
+    "id": "show-91",
+    "title": "Morphle",
+    "age_range": "2-5",
+    "platform": "Netflix",
+    "description": "Red creature transforming into trucks and dinosaurs with high-pitched chipmunk vocal sound effects and rapid cuts.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 23,
+    "metrics": {
+      "avg_cut_duration_sec": 2.0,
+      "cuts_per_minute": 30.0,
+      "audio_spike_count": 9,
+      "loudness_variance_db": 14.9,
+      "saturation_score": 70
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 2.0s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Little Bear",
+      "Tumble Leaf",
+      "Kipper"
+    ],
+    "imageUrl": "",
+    "tvmaze_id": 75526,
+    "network": "Disney+",
+    "genres": [
+      "Children",
+      "Family"
+    ],
+    "rating": null,
+    "officialSite": "https://www.disneyplus.com/en-gb/browse/entity-56b567fc-2b27-4531-8223-814f7fe5c3df"
+  },
+  {
+    "id": "show-92",
+    "title": "Rabbids Invasion",
+    "age_range": "6-12",
+    "platform": "Netflix",
+    "description": "Hyperactive shrieking bunny-like aliens screaming 'Bwaaah!' repeatedly with chaotic slapstick violence.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 20,
+    "metrics": {
+      "avg_cut_duration_sec": 1.9,
+      "cuts_per_minute": 31.6,
+      "audio_spike_count": 11,
+      "loudness_variance_db": 17.5,
+      "saturation_score": 66
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 1.9s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Shaun the Sheep",
+      "Lucas the Spider"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/19/47976.jpg",
+    "tvmaze_id": 3805,
+    "network": "Nicktoons",
+    "genres": [
+      "Comedy",
+      "Children"
+    ],
+    "rating": 6.5,
+    "officialSite": "http://www.nick.com/rabbids-invasion"
+  },
+  {
+    "id": "show-93",
+    "title": "Zig & Sharko",
+    "age_range": "6-12",
+    "platform": "Netflix",
+    "description": "Relentless predatory slapstick chase cartoon with zero dialogue, constant explosions, and violent physical blows.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 14,
+    "metrics": {
+      "avg_cut_duration_sec": 1.7,
+      "cuts_per_minute": 35.3,
+      "audio_spike_count": 10,
+      "loudness_variance_db": 16.2,
+      "saturation_score": 68
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 1.7s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Shaun the Sheep",
+      "Ponyo"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/237/594910.jpg",
+    "tvmaze_id": 45968,
+    "network": "Canal+",
+    "genres": [
+      "Comedy",
+      "Action",
+      "Children"
+    ],
+    "rating": 4.8,
+    "officialSite": null
+  },
+  {
+    "id": "show-94",
+    "title": "CoComelon Lane",
+    "age_range": "2-5",
+    "platform": "Netflix",
+    "description": "Slightly longer narrative episodes than classic Cocomelon, but retains bright 3D saturation and auto-tuned jingles.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 44,
+    "metrics": {
+      "avg_cut_duration_sec": 2.8,
+      "cuts_per_minute": 21.4,
+      "audio_spike_count": 6,
+      "loudness_variance_db": 11.0,
+      "saturation_score": 65
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 2.8s per scene (high visual sensory stimulation).",
+      "Occasional energetic sound effects and lively character banter.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Daniel Tiger's Neighborhood",
+      "Trash Truck",
+      "Bluey"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/483/1208620.jpg",
+    "tvmaze_id": 71580,
+    "network": "Netflix",
+    "genres": [
+      "Children"
+    ],
+    "rating": null,
+    "officialSite": "https://www.netflix.com/title/81423472"
+  },
+  {
+    "id": "show-95",
+    "title": "Thomas & Friends: All Engines Go",
+    "age_range": "2-6",
+    "platform": "Netflix",
+    "description": "Modern 2D reboot of Thomas that discarded the classic, slow British model-train pacing in favor of physics-defying cartoon bouncing and fast cuts.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 44,
+    "metrics": {
+      "avg_cut_duration_sec": 2.3,
+      "cuts_per_minute": 26.1,
+      "audio_spike_count": 8,
+      "loudness_variance_db": 13.6,
+      "saturation_score": 68
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 2.3s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Trash Truck",
+      "Postman Pat",
+      "Little Bear"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/372/931938.jpg",
+    "tvmaze_id": 54041,
+    "network": "Netflix",
+    "genres": [
+      "Children"
+    ],
+    "rating": null,
+    "officialSite": "https://www.netflix.com/title/81553278"
+  },
+  {
+    "id": "show-96",
+    "title": "Bebefinn",
+    "age_range": "1-4",
+    "platform": "Netflix",
+    "description": "Pinkfong 3D animated toddler nursery rhymes with rapid camera jumps, continuous loud beats, and hyper-saturated lighting.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 20,
+    "metrics": {
+      "avg_cut_duration_sec": 1.8,
+      "cuts_per_minute": 33.3,
+      "audio_spike_count": 9,
+      "loudness_variance_db": 14.9,
+      "saturation_score": 71
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 1.8s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Puffin Rock",
+      "Oswald",
+      "Little Bear"
+    ],
+    "imageUrl": "",
+    "tvmaze_id": null,
+    "network": "Netflix",
+    "genres": [
+      "Children",
+      "Family"
+    ],
+    "rating": null,
+    "officialSite": null
+  },
+  {
+    "id": "show-97",
+    "title": "Masha and the Bear",
+    "age_range": "3-7",
+    "platform": "Netflix",
+    "description": "High-energy Russian slapstick of a hyperactive mischievous girl tormenting a patient circus bear with relentless property destruction.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 41,
+    "metrics": {
+      "avg_cut_duration_sec": 2.9,
+      "cuts_per_minute": 20.7,
+      "audio_spike_count": 7,
+      "loudness_variance_db": 12.3,
+      "saturation_score": 57
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 2.9s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Little Bear",
+      "Bear in the Big Blue House",
+      "Shaun the Sheep"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/38/96531.jpg",
+    "tvmaze_id": 11469,
+    "network": "Россия 1",
+    "genres": [
+      "Comedy",
+      "Children"
+    ],
+    "rating": 7.4,
+    "officialSite": "https://mashabear.com/"
+  },
+  {
+    "id": "show-98",
+    "title": "Chuggington",
+    "age_range": "3-6",
+    "platform": "YouTube",
+    "description": "Trainee locomotives racing along high-speed tracks with loud honking horns, roller-coaster loops, and fast camera turns.",
+    "stimulation_level": "high",
+    "status_verdict": "failed",
+    "calm_score": 41,
+    "metrics": {
+      "avg_cut_duration_sec": 2.4,
+      "cuts_per_minute": 25.0,
+      "audio_spike_count": 7,
+      "loudness_variance_db": 12.3,
+      "saturation_score": 64
+    },
+    "audit_notes": [
+      "Rapid camera cuts averaging 2.4s per scene (high visual sensory stimulation).",
+      "Frequent loud sound spikes, shrieking, or intense synthesized background music.",
+      "Hyper-saturated neon colors with high-contrast motion."
+    ],
+    "calmer_alternatives": [
+      "Trash Truck",
+      "Postman Pat",
+      "Tumble Leaf"
+    ],
+    "imageUrl": "https://static.tvmaze.com/uploads/images/original_untouched/40/101524.jpg",
+    "tvmaze_id": 12097,
+    "network": "CBeebies",
+    "genres": [
+      "Children"
+    ],
+    "rating": null,
+    "officialSite": "https://www.bbc.co.uk/cbeebies/shows/chuggington"
+  }
+]

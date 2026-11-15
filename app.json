@@ -1,18 +1,20 @@
 {
   "expo": {
-    "name": "netflix-expo",
-    "slug": "netflix-expo",
+    "name": "Ask Zaen",
+    "slug": "ask-zaen",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "netflixexpo",
+    "scheme": "askzaen",
     "userInterfaceStyle": "automatic",
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.asterius.askzaen",
+      "buildNumber": "1"
     },
     "android": {
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
+        "backgroundColor": "#FAF8F5",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
         "backgroundImage": "./assets/images/android-icon-background.png",
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
@@ -21,8 +23,10 @@
     },
     "web": {
       "bundler": "metro",
-      "output": "static",
-      "favicon": "./assets/images/favicon.png"
+      "output": "single",
+      "favicon": "./assets/images/favicon.png",
+      "name": "Ask Zaen",
+      "shortName": "Ask Zaen"
     },
     "plugins": [
       "expo-router",
@@ -31,9 +35,21 @@
         {
           "image": "./assets/images/splash-icon.png",
           "resizeMode": "contain",
-          "backgroundColor": "#ffffff"
+          "backgroundColor": "#FAF8F5"
         }
-      ]
+      ],
+      "expo-asset",
+      "expo-image",
+      "expo-web-browser",
+      "expo-secure-store",
+      "@clerk/expo",
+      [
+        "@clerk/expo-native-components",
+        {
+          "theme": "./clerk-theme.json"
+        }
+      ],
+      "expo-status-bar"
     ],
     "experiments": {
       "typedRoutes": true

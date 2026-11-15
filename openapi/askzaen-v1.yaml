@@ -1,0 +1,371 @@
+openapi: 3.0.3
+info:
+  title: Ask Zaen API
+  version: 1.0.0
+  description: Parent-facing calm-media discovery and account-state API.
+servers:
+  - url: https://www.askzaen.com/api/v1
+    description: Production
+  - url: http://localhost:5173/api/v1
+    description: Local development
+tags:
+  - name: Public media
+  - name: Parent account
+paths:
+  /health:
+    get:
+      tags: [Public media]
+      security: []
+      responses:
+        '200':
+          description: Service is reachable.
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [status]
+                properties:
+                  status: { type: string, enum: [ok] }
+  /media:
+    get:
+      tags: [Public media]
+      security: []
+      parameters:
+        - { $ref: '#/components/parameters/Limit' }
+        - { $ref: '#/components/parameters/Cursor' }
+        - { $ref: '#/components/parameters/Page' }
+        - { $ref: '#/components/parameters/Query' }
+        - { $ref: '#/components/parameters/Stimulation' }
+        - { $ref: '#/components/parameters/Category' }
+        - { $ref: '#/components/parameters/Gate' }
+        - { $ref: '#/components/parameters/MediaType' }
+        - { $ref: '#/components/parameters/Age' }
+        - { $ref: '#/components/parameters/Language' }
+        - { $ref: '#/components/parameters/Platforms' }
+        - { $ref: '#/components/parameters/AudioOnly' }
+        - { $ref: '#/components/parameters/Sort' }
+        - { $ref: '#/components/parameters/RotationDate' }
+        - { $ref: '#/components/parameters/RotationSeed' }
+        - { $ref: '#/components/parameters/RotationSurface' }
+      responses:
+        '200':
+          description: Cursor or legacy page response.
+          content:
+            application/json:
+              schema:
+                oneOf:
+                  - $ref: '#/components/schemas/CursorMediaResponse'
+                  - $ref: '#/components/schemas/PageMediaResponse'
+        '400': { $ref: '#/components/responses/BadRequest' }
+  /media/{id}:
+    get:
+      tags: [Public media]
+      security: []
+      parameters:
+        - { $ref: '#/components/parameters/MediaId' }
+      responses:
+        '200':
+          description: Public parent media item and ordered episodes.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/MediaItemDetail' }
+        '404': { $ref: '#/components/responses/NotFound' }
+  /categories:
+    get:
+      tags: [Public media]
+      security: []
+      responses:
+        '200':
+          description: Public category counts.
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [items]
+                properties:
+                  items:
+                    type: array
+                    items: { $ref: '#/components/schemas/Category' }
+  /languages:
+    get:
+      tags: [Public media]
+      security: []
+      responses:
+        '200':
+          description: Languages containing public media.
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [items]
+                properties:
+                  items:
+                    type: array
+                    items: { $ref: '#/components/schemas/LanguageCount' }
+  /me:
+    get:
+      tags: [Parent account]
+      security: [{ ClerkSession: [] }]
+      responses:
+        '200':
+          description: Minimal parent account information.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Me' }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+    delete:
+      tags: [Parent account]
+      security: [{ ClerkSession: [] }]
+      responses:
+        '200':
+          description: Clerk identity and Zaen state deleted.
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [deleted]
+                properties: { deleted: { type: boolean, enum: [true] } }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+  /me/state:
+    get:
+      tags: [Parent account]
+      security: [{ ClerkSession: [] }]
+      responses:
+        '200':
+          description: Canonical private parent state.
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/StateResponse' }
+    put:
+      tags: [Parent account]
+      security: [{ ClerkSession: [] }]
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [baseRevision, state]
+              properties:
+                baseRevision: { type: integer, minimum: 0 }
+                state: { $ref: '#/components/schemas/ZaenState' }
+      responses:
+        '200': { $ref: '#/components/responses/StateResponse' }
+        '409': { $ref: '#/components/responses/StaleState' }
+        '413': { $ref: '#/components/responses/TooLarge' }
+  /me/state/merge:
+    post:
+      tags: [Parent account]
+      security: [{ ClerkSession: [] }]
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [baseRevision, snapshot]
+              properties:
+                baseRevision: { type: integer, minimum: 0 }
+                snapshot: { $ref: '#/components/schemas/ZaenState' }
+      responses:
+        '200': { $ref: '#/components/responses/StateResponse' }
+        '409': { $ref: '#/components/responses/StaleState' }
+        '413': { $ref: '#/components/responses/TooLarge' }
+components:
+  securitySchemes:
+    ClerkSession:
+      type: http
+      scheme: bearer
+      bearerFormat: Clerk session token
+  parameters:
+    Limit: { name: limit, in: query, schema: { type: integer, minimum: 1, maximum: 100, default: 48 } }
+    Cursor: { name: cursor, in: query, schema: { type: string } }
+    Page: { name: page, in: query, schema: { type: integer, minimum: 1, default: 1 } }
+    Query: { name: query, in: query, schema: { type: string } }
+    Stimulation: { name: stimulation, in: query, schema: { type: string, enum: [all, calm, moderate, low, medium] } }
+    Category: { name: category, in: query, schema: { type: string } }
+    Gate: { name: gate, in: query, schema: { type: string } }
+    MediaType: { name: mediaType, in: query, schema: { type: string, enum: [all, show, video, music] } }
+    Age: { name: age, in: query, schema: { type: string } }
+    Language: { name: language, in: query, schema: { type: string } }
+    Platforms: { name: platforms, in: query, schema: { type: string, example: youtube,pbs } }
+    AudioOnly: { name: audioOnly, in: query, schema: { type: boolean, default: false } }
+    Sort:
+      name: sort
+      in: query
+      description: Use recommended for deterministic daily browse rotation. Recommended sorting requires rotationDate, rotationSeed, and rotationSurface. Typed search remains relevance-first.
+      schema: { type: string, enum: [calm_first, stim_high, newest, recommended] }
+    RotationDate:
+      name: rotationDate
+      in: query
+      description: Local calendar day used as the daily rotation boundary, in YYYY-MM-DD format. Required with sort=recommended.
+      schema: { type: string, pattern: '^\\d{4}-\\d{2}-\\d{2}$' }
+    RotationSeed:
+      name: rotationSeed
+      in: query
+      description: Opaque per-install seed. It is not an account ID or device identifier and is required with sort=recommended.
+      schema: { type: string, minLength: 8, maxLength: 128, pattern: '^[A-Za-z0-9_-]+$' }
+    RotationSurface:
+      name: rotationSurface
+      in: query
+      description: Browse surface participating in rotation. Required with sort=recommended.
+      schema: { type: string, enum: [discover, category, language] }
+    MediaId: { name: id, in: path, required: true, schema: { type: integer, minimum: 1 } }
+  responses:
+    BadRequest:
+      description: Invalid query, cursor, or request body.
+      content: { application/json: { schema: { $ref: '#/components/schemas/ErrorResponse' } } }
+    Unauthorized:
+      description: Missing or invalid Clerk session.
+      content: { application/json: { schema: { $ref: '#/components/schemas/ErrorResponse' } } }
+    NotFound:
+      description: Public media item was not found.
+      content: { application/json: { schema: { $ref: '#/components/schemas/ErrorResponse' } } }
+    TooLarge:
+      description: State exceeds v1 limits.
+      content: { application/json: { schema: { $ref: '#/components/schemas/ErrorResponse' } } }
+    StateResponse:
+      description: Canonical private parent state.
+      content: { application/json: { schema: { $ref: '#/components/schemas/StateResponse' } } }
+    StaleState:
+      description: Another device wrote newer state.
+      content: { application/json: { schema: { $ref: '#/components/schemas/ErrorResponse' } } }
+  schemas:
+    MediaItem:
+      type: object
+      required: [id, title, mediaType, ageGroup, genre, description, duration, durationSeconds, platformUrl, posterUrl, backdropUrl, creatorPublisher, language, releaseYear, stimulationScore, stimulationLabel, safetyTags, platformOffers, sensoryProfile, parentShowId, seasonNumber, episodeNumber, hasEpisodes, episodeCount, seasonCount]
+      properties:
+        id: { type: integer }
+        title: { type: string }
+        mediaType: { type: string, enum: [show, video, music] }
+        ageGroup: { type: string, nullable: true }
+        genre: { type: string, nullable: true }
+        description: { type: string, nullable: true }
+        duration: { type: string, nullable: true }
+        durationSeconds: { type: integer, nullable: true }
+        platformUrl: { type: string, format: uri, nullable: true }
+        posterUrl: { type: string, format: uri, nullable: true }
+        backdropUrl: { type: string, format: uri, nullable: true }
+        creatorPublisher: { type: string, nullable: true }
+        language: { type: string, nullable: true }
+        releaseYear: { type: integer, nullable: true }
+        stimulationScore: { type: number, nullable: true }
+        stimulationLabel: { type: string, enum: [calm, moderate], nullable: true }
+        safetyTags: { type: array, items: { type: string } }
+        platformOffers:
+          type: array
+          items:
+            type: object
+            required: [platform, url]
+            properties: { platform: { type: string }, url: { type: string, format: uri } }
+        sensoryProfile: { $ref: '#/components/schemas/SensoryProfile' }
+        parentShowId: { type: integer, nullable: true }
+        seasonNumber: { type: integer, nullable: true }
+        episodeNumber: { type: integer, nullable: true }
+        hasEpisodes: { type: boolean }
+        episodeCount: { type: integer, minimum: 0 }
+        seasonCount: { type: integer, minimum: 0 }
+    SensoryProfile:
+      type: object
+      nullable: true
+      required: [visualPace, soundIntensity, narrativePressure, emotionalArousal, rewardPressure, cutsPerMinute, recommendedRoutine, parentAdvisory]
+      properties:
+        visualPace: { type: string, nullable: true }
+        soundIntensity: { type: string, nullable: true }
+        narrativePressure: { type: string, nullable: true }
+        emotionalArousal: { type: string, nullable: true }
+        rewardPressure: { type: string, nullable: true }
+        cutsPerMinute: { type: number, nullable: true }
+        recommendedRoutine: { type: string, nullable: true }
+        parentAdvisory: { type: string, nullable: true }
+    CursorMediaResponse:
+      type: object
+      required: [items, limit, hasMore, nextCursor]
+      properties:
+        items: { type: array, items: { $ref: '#/components/schemas/MediaItem' } }
+        limit: { type: integer }
+        hasMore: { type: boolean }
+        nextCursor: { type: string, nullable: true }
+    PageMediaResponse:
+      type: object
+      required: [items, page, pages, total, limit]
+      properties:
+        items: { type: array, items: { $ref: '#/components/schemas/MediaItem' } }
+        page: { type: integer }
+        pages: { type: integer }
+        total: { type: integer }
+        limit: { type: integer }
+    MediaItemDetail:
+      allOf:
+        - $ref: '#/components/schemas/MediaItem'
+        - type: object
+          required: [episodes]
+          properties:
+            episodes: { type: array, items: { $ref: '#/components/schemas/MediaItem' } }
+    Category:
+      type: object
+      required: [id, title, tagline, mediaType, ageRange, icon, badge, count, sampleTitles]
+      properties:
+        id: { type: string }
+        title: { type: string }
+        tagline: { type: string }
+        mediaType: { type: string, enum: [music, show, video, all] }
+        ageRange: { type: string }
+        icon: { type: string }
+        badge: { type: string }
+        count: { type: integer }
+        sampleTitles: { type: array, items: { type: string } }
+    LanguageCount:
+      type: object
+      required: [language, count]
+      properties: { language: { type: string }, count: { type: integer } }
+    Playlist:
+      type: object
+      required: [id, title, emoji, isDefault, itemIds, createdAt, updatedAt]
+      properties:
+        id: { type: string }
+        title: { type: string, maxLength: 80 }
+        emoji: { type: string }
+        isDefault: { type: boolean }
+        itemIds: { type: array, maxItems: 100, items: { type: integer, minimum: 1 } }
+        createdAt: { type: string, format: date-time }
+        updatedAt: { type: string, format: date-time }
+    ZaenState:
+      type: object
+      required: [schemaVersion, revision, updatedAt, preferences, playlists]
+      properties:
+        schemaVersion: { type: integer, enum: [1] }
+        revision: { type: integer, minimum: 0 }
+        updatedAt: { type: string, format: date-time }
+        preferences:
+          type: object
+          required: [language, ageTier, subscriptions]
+          properties:
+            language: { type: string }
+            ageTier: { type: string }
+            subscriptions: { type: array, items: { type: string } }
+        playlists: { type: array, maxItems: 10, items: { $ref: '#/components/schemas/Playlist' } }
+    StateResponse:
+      type: object
+      required: [state]
+      properties: { state: { $ref: '#/components/schemas/ZaenState' } }
+    Me:
+      type: object
+      required: [userId, displayName, email, stateRevision]
+      properties:
+        userId: { type: string }
+        displayName: { type: string }
+        email: { type: string, format: email, nullable: true }
+        stateRevision: { type: integer }
+    ErrorResponse:
+      type: object
+      required: [error]
+      properties:
+        error:
+          type: object
+          required: [code, message, requestId]
+          properties:
+            code: { type: string }
+            message: { type: string }
+            requestId: { type: string }
+            latestState: { $ref: '#/components/schemas/ZaenState' }
